@@ -1,0 +1,17 @@
+IV Calculator
+Capture Rate Calculator
+	- Graphical Enhancements
+Damage Calculator
+	- Graphical Enhancements
+	- Add ability support
+	- Add stat modifier support
+	- Add level support
+	- Make GUI class extend Panel instead
+Overall
+	- Code cleanup
+	- Standardize layout
+	- Add comments
+Future Tools
+	- Random pokemon generator
+	- Teambuilder
+	- Guides
